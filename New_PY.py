@@ -1,0 +1,5 @@
+print("Line A \nLine B")
+print("this is \\\\ double backslash")
+print("he is\t awesome")
+print("these are /\\/\\/\\/\\/\\ mountains")
+print(" \\\" \\n \\t \\\' ")
