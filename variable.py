@@ -8,4 +8,13 @@ print(num1)
 name = "Ashish"
 print(name) 
 name = 123
-print(name)
+print(name) #Dynamic programming lang
+
+#rule 1
+#1number = 4 <-- error
+#letter, _ <--start with 
+# % $ ^ etc cannot be used as variable as start of letter or between
+
+user_one_name = "Sonu" # Snake case writing
+userOneName = "Nisha" # Camel case writing
+
