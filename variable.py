@@ -18,3 +18,10 @@ print(name) #Dynamic programming lang
 user_one_name = "Sonu" # Snake case writing
 userOneName = "Nisha" # Camel case writing
 
+#variable_more
+
+name, age = "Ashish", 25
+print("Hello " + name + " your age is " + str(age))
+
+x=y=z=1
+print(x+y+z)
