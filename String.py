@@ -12,6 +12,6 @@ name = input("Type your name")
 print("hello " +name)
 
 #input function takes i/p always as string
-age = input("What is your age?")
-print(age)   #24 is string not integer
+age = input("What is your age? ")
+print(age)   # "24" is string not integer 
 
