@@ -15,3 +15,10 @@ print("hello " +name)
 age = input("What is your age? ")
 print(age)   # "24" is string not integer 
 
+name = input("enter your name : ")
+age = input("enter your age : ")
+
+#OR 
+name, age = input("enter your name and age").split() #User can put 2 values at once
+print(name)
+print(age)
