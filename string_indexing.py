@@ -27,3 +27,11 @@ print (lang[:3])
 # syntax - [start argument : stop argument +1 : step]
 
 print ("Sonu"[1:3])
+
+print ("Ashish" [0:4:2]) # Step argument 
+print ("Ashish" [5::-1])
+
+#Exercise
+name = input("What is your name? ")
+reverse = name [-1::-1]
+print (f"reverse of your name is {reverse}")
