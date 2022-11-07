@@ -1,35 +1,35 @@
-# #if statment & else statement
+# if statment & else statement
 
-# age = int(input("Enter your age "))
-# if age >= 14:
-#     print("You are eligible")
+age = int(input("Enter your age "))
+if age >= 14:
+    print("You are eligible")
 
-# else:
-#     print("Not eligible")
+else:
+    print("Not eligible")
 
-# #pass statement
+#pass statement
 
-# x = 18
-# if x >18:
-#     pass
+x = 18
+if x >18:
+    pass
 
-# #Exercise
+#Exercise
 
-# winning_number = 24
+winning_number = 24
 
-# guess_number = int(input("enter your any number between 1 and 100 "))
+guess_number = int(input("enter your any number between 1 and 100 "))
 
-# if guess_number == winning_number:
+if guess_number == winning_number:
 
-#     print("YOU WIN !!!!")
+    print("YOU WIN !!!!")
 
-# if guess_number > winning_number:
+if guess_number > winning_number:
 
-#     print("too high")
+    print("too high")
 
-# if guess_number < winning_number:
+if guess_number < winning_number:
     
-#     print("too low")
+    print("too low")
 
 
 # Another method with else
@@ -39,6 +39,7 @@ winning_number = 24
 guess_number = int(input("enter your any number between 1 and 100 "))
 
 if guess_number == winning_number: 
+
    print("You win !!!")
 else:
 
